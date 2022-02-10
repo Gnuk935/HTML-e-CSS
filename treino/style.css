@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/*Este é um exemplo baseado na aula do Gustavo Guanabara*/
+*{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: linear-gradient( to right, #067c51, #17D48F, #16ac75, #078f5d);
+}
+main{
+    /*cor de fundo*/
+    background-color: white;
+
+    /*Margem do conteudo*/
+    width: 600px;
+
+    /*Da um acochoamento para o texto*/
+    padding: 10px;
+    
+    /*Coloca o conteudo no meio da pg*/
+    margin: auto;
+
+    /*cria cantos arredondado */
+    border-radius: 10px;
+
+    /*Sombra em baixo*/
+    box-shadow: 5px 5px 15px  #a07534c4;
+    
+}
+h1{
+    color: #666185;
+
+    /*centralizar o texto*/
+    text-align: center;
+
+    /*sombra no texto*/
+    text-shadow: 1px 1px 2px #44323ce3;
+}
+h2{
+    color: #812F33;
+}
+p{
+    text-align: justify;
+}

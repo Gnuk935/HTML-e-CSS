@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/*COLOQUE OS ACENTOS!*/
+body{
+    
+    /*Tipo de fonte que vai ser usada*/
+    font-family: Arial, Helvetica, sans-serif;
+
+    /*Tamanho da fonte*/
+    font-size: 20px;
+
+    /*Peso da fonte*/
+    font-weight: bolder;
+
+    /*Estilo da fonte*/
+    font-style: italic;
+
+    /*decoração do texto*/
+    text-decoration: underline; 
+
+    /*shorthand font
+        -font-style
+        -font weight
+        -font size
+        -font family
+        */
+}

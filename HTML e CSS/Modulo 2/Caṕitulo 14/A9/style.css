@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body{
+    /*Centralização de texto*/
+
+    
+    text-align: left; 
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: right;
+}
+p{
+    text-align: justify;
+    text-rendering: 20px;
+}
