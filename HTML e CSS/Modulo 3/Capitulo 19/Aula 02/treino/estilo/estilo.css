@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+body{
+    background-image: url('../Imagens/barbara.jpg');
+    margin: 100px 100px 100px 100px;
+
+}
+
+h1, p{
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 2px 5px rgba(0, 0, 0, 0.301);
+    font-size: 100px;
+}
