@@ -13,9 +13,7 @@
    <li> Modulo 03
     <dd> Clique <strong> <a href="https://github.com/Gnuk935/HTML-e-CSS/tree/main/HTML%20e%20CSS/Modulo%203" target="_blank" rel="author" hreflang="pt-br">aqui</a> </strong> para acessar o modulo 03 </dd>
    
-  </dt>
- </ul>
-
+  
  
  
  
