@@ -2,9 +2,13 @@
 
 
 body{
+    height: 100vh;
     background-image: url('../Imagens/barbara.jpg');
-    background-size: 1920px 1000px;
-    margin: 100px 100px 100px 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: blueviolet;
+
+    
 
 
 }
