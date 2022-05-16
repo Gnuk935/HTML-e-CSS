@@ -1,0 +1,18 @@
+main {
+    display: flex;
+}
+
+aside {
+    width: 50em;
+    overflow: hidden;
+    overflow-y: scroll;
+    height: 90vh;
+    border: 1px solid grey;
+    padding: 0.5em;
+    margin-left: 1em;
+}
+
+aside img {
+    width: 100%;
+}
+
